@@ -72,7 +72,8 @@ Url :  http://www.lepoint.fr/24h-infos/rss.xml
 ## Authors
 
 **[Othmane Ouenzar](https://github.com/king-timo)**
-**Soufiane Benhaddou**
+
+**[Soufiane Benhaddou](https://github.com/soufianemarly)**
 
 ## License
 
