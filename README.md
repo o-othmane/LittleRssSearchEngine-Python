@@ -28,7 +28,7 @@ Sggest using -h to get help on the most current version.
 usage: main.py [-h] [-f] [-l LANG] [-p PROPOSITIONS] [-d] word
 
 positional arguments:
-word                  word to search
+word            word to search
 
 optional arguments:
 -h,             --help                   show this help message and exit
