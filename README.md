@@ -13,6 +13,17 @@ pip install nltk feedparser elasticsearch
 ```
 
 ### Setup
+Clone the repo
+
+```
+git clone https://github.com/o-othmane/LittleRssSearchEngine-Python
+```
+
+Move into the directory
+
+```
+cd LittleRssSearchEngine-Python
+```
 
 First run the script with --fetch argument to fetch RSS feeds and create index in ElasticSearch.
 
