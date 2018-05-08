@@ -1,0 +1,8 @@
+http://www.france24.com/fr/timeline/rss
+http://www.bfmtv.com/rss/info/flux-rss/flux-toutes-les-actualites/
+http://www.lemonde.fr/rss/une.xml
+http://www.lefigaro.fr/rss/figaro_actualites-a-la-une.xml
+http://www.lepoint.fr/24h-infos/rss.xml
+http://www.lesoir.be/feed/Actualit%C3%A9/Fil%20Info/destination_principale_block
+http://www.jeuneafrique.com/feed/
+http://www.libe.ma/xml/syndication.rss
