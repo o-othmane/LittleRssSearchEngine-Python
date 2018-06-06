@@ -1,6 +1,6 @@
 # Little RSS Search Engine
 
-Un moteur de recherche qui analyse les flux RSS à partir de la liste des URL  .TXT, indexe le contenu des pages en utilisant Elasticsearch et utilise word2vec pour la classification des résultats.
+A little search engine that parses RSS feeds from .TXT urls list, indexes the content of the pages using Elasticsearch and uses word2vec for result classification.
 
 ## Getting Started
 
