@@ -1,7 +1,6 @@
 http:/rss.cnn.com/rss/edition.rss
 http://rss.cnn.com/rss/edition_world.rss
 http://www.huffingtonpost.com/feeds/index.xml
-http://feeds.washingtonpost.com/rss/world
 http://rss.nytimes.com/services/xml/rss/nyt/World.xml
 http://rss.nytimes.com/services/xml/rss/nyt/Europe.xml
 http://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml

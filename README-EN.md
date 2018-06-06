@@ -1,12 +1,12 @@
 # Little RSS Search Engine
 
-A little search engine that parses RSS feeds from .TXT urls list, indexes the content of the pages using Elasticsearch and uses word2vec for result classification.
+Un moteur de recherche qui analyse les flux RSS à partir de la liste des URL  .TXT, indexe le contenu des pages en utilisant Elasticsearch et utilise word2vec pour la classification des résultats.
 
 ## Getting Started
 
 ### Prerequisites
 
-Python >= 2.6 with modules nltk, feedparser and elasticsearch:
+Python >= 3.0 with modules nltk, feedparser and elasticsearch:
 
 ```
 pip install nltk feedparser elasticsearch
@@ -32,6 +32,8 @@ python main.py -f -l fr test
 ```
 
 ## Usage
+
+
 
 Sggest using -h to get help on the most current version.
 
@@ -80,9 +82,29 @@ Title :  Nobel: le mystère de la nomination falsifiée de Trump restera entier
 Url :  http://www.lepoint.fr/24h-infos/rss.xml
 ```
 
+## Web interfaces
+
+Launch server
+
+```
+python httpServer
+```
+
+You can then access search engine on 
+
+```
+http://localhost:8000/src/search.py
+```
+
+You can get rest by calling
+
+```
+http://localhost:8000/src/rest.py
+```
+
 ## Authors
 
-**[Othmane Ouenzar](https://github.com/king-timo)**
+**[Othmane Ouenzar](https://github.com/o-othmane)**
 
 **[Soufiane Benhaddou](https://github.com/soufianemarly)**
 
