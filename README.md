@@ -1,3 +1,5 @@
+![Little RSS Search Engine](https://preview.ibb.co/dLFUOT/Git_Cover.jpg" )
+
 # Little RSS Search Engine
 
 A little search engine that parses RSS feeds from .TXT urls list, indexes the content of the pages using Elasticsearch and uses word2vec for result classification.
