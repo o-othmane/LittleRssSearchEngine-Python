@@ -108,7 +108,8 @@ http://localhost:8000/src/rest.py
 
 ## Screenshots
 <p align="center">
-<img src="https://preview.ibb.co/dLFUOT/Git_Cover.jpg" width="100%"/>
+<img src="https://preview.ibb.co/dLFUOT/Git_Cover.jpg" width="50%"/>
+<img src="https://preview.ibb.co/dLFUOT/Git_Cover.jpg" width="50%"/>
 </p>
 
 ## Authors
