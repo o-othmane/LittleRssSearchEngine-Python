@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://preview.ibb.co/dLFUOT/Git_Cover.jpg" width="100%"/>
+<img src="https://github.com/o-othmane/LittleRssSearchEngine-Python/blob/master/web/images/Header.jpg" width="100%"/>
 </p>
 
 # Little RSS Search Engine
