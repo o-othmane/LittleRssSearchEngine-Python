@@ -1,3 +1,7 @@
+<p align="center">
+<img src="https://github.com/o-othmane/LittleRssSearchEngine-Python/blob/master/web/images/Header.jpg" width="100%"/>
+</p>
+
 # Little RSS Search Engine
 
 Un moteur de recherche qui analyse les flux RSS à partir de la liste des URL  .TXT, indexe le contenu des pages en utilisant Elasticsearch et utilise word2vec pour la classification des résultats.
@@ -97,8 +101,16 @@ http://localhost:8000/src/search.py
 Vous pouvez acceder à REST par 
 
 ```
-http://localhost:8000/src/rest.py
+GET http://localhost:8000/src/rest.py?lang=fr&word=trump
 ```
+
+## Captures d'écran
+<p align="center">
+<img src="https://github.com/o-othmane/LittleRssSearchEngine-Python/blob/master/web/images/Screenshot1.png" width="40%"/>
+<img src="https://github.com/o-othmane/LittleRssSearchEngine-Python/blob/master/web/images/Screenshot2.png" width="40%"/>
+<img src="https://github.com/o-othmane/LittleRssSearchEngine-Python/blob/master/web/images/Screenshot3.png" width="40%"/>
+<img src="https://github.com/o-othmane/LittleRssSearchEngine-Python/blob/master/web/images/Screenshot4.png" width="40%"/>
+</p>
 
 ## Auteurs
 
