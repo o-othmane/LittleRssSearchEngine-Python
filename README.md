@@ -1,4 +1,6 @@
-![Little RSS Search Engine](https://preview.ibb.co/dLFUOT/Git_Cover.jpg" ){:width="100%"}
+<p align="center">
+<img src="https://preview.ibb.co/dLFUOT/Git_Cover.jpg" width="100%"/>
+</p>
 
 # Little RSS Search Engine
 
