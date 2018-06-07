@@ -1,4 +1,4 @@
-![Little RSS Search Engine](https://preview.ibb.co/dLFUOT/Git_Cover.jpg" )
+![Little RSS Search Engine](https://preview.ibb.co/dLFUOT/Git_Cover.jpg" ){:width="100%"}
 
 # Little RSS Search Engine
 
@@ -103,6 +103,9 @@ You can get rest by calling
 ```
 http://localhost:8000/src/rest.py
 ```
+
+## Screenshots
+
 
 ## Authors
 
