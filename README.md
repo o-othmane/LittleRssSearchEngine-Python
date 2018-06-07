@@ -103,13 +103,15 @@ http://localhost:8000/src/search.py
 You can get rest by calling
 
 ```
-http://localhost:8000/src/rest.py
+GET http://localhost:8000/src/rest.py?lang=fr&word=trump
 ```
 
 ## Screenshots
 <p align="center">
-<img src="https://preview.ibb.co/dLFUOT/Git_Cover.jpg" width="50%"/>
-<img src="https://preview.ibb.co/dLFUOT/Git_Cover.jpg" width="50%"/>
+<img src="https://github.com/o-othmane/LittleRssSearchEngine-Python/blob/master/web/images/Screenshot1.png" width="40%"/>
+<img src="https://github.com/o-othmane/LittleRssSearchEngine-Python/blob/master/web/images/Screenshot2.png" width="40%"/>
+<img src="https://github.com/o-othmane/LittleRssSearchEngine-Python/blob/master/web/images/Screenshot3.png" width="40%"/>
+<img src="https://github.com/o-othmane/LittleRssSearchEngine-Python/blob/master/web/images/Screenshot4.png" width="40%"/>
 </p>
 
 ## Authors
